@@ -1,0 +1,20 @@
+{
+  "id": "bkshlf_tst1",
+  "name": "bkshlf_tst1",
+  "version": "1.0.0",
+  "minecraftVersion": "1.20.1",
+  "forgeVersion": "47.2.0",
+  "description": "Тестовая сборка CubeForge",
+  "mods": [
+    {
+      "name": "Just Enough Items (JEI)",
+      "url": "https://edge.forgecdn.net/files/5191/382/jei-1.20.1-forge-15.3.0.4.jar",
+      "path": "mods/jei-1.20.1-forge-15.3.0.4.jar"
+    },
+    {
+      "name": "Alex's Mobs",
+      "url": "https://edge.forgecdn.net/files/5045/951/alexsmobs-1.22.8.jar",
+      "path": "mods/alexsmobs-1.22.8.jar"
+    }
+  ]
+}
