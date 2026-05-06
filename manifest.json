@@ -4,19 +4,13 @@
   "version": "1.0.0",
   "minecraftVersion": "1.20.1",
   "forgeVersion": "47.2.0",
-  "description": "Тестовая сборка HEXlauncher через Modrinth API",
+  "description": "Тест загрузки одного мода через Modrinth API",
   "mods": [
     {
       "name": "Just Enough Items (JEI)",
       "filename": "jei-1.20.1-forge-15.3.0.4.jar",
       "source": "modrinth",
-      "versionId": "9M6tw6on"
-    },
-    {
-      "name": "Alex's Mobs",
-      "filename": "alexsmobs-1.22.8.jar",
-      "source": "direct",
-      "url": "https://edge.forgecdn.net/files/5191/382/alexsmobs-1.22.8.jar"
+      "slug": "jei"
     }
   ]
 }
