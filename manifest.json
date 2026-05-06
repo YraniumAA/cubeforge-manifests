@@ -3,21 +3,20 @@
   "name": "HEX Pack",
   "version": "1.0.0",
   "minecraftVersion": "1.20.1",
-  "description": "Тестовая сборка HEXlauncher через официальное API",
+  "forgeVersion": "47.2.0",
+  "description": "Тестовая сборка HEXlauncher без CurseForge",
   "mods": [
     {
       "name": "Just Enough Items (JEI)",
-      "source": "curseforge",
-      "projectId": 238222,
-      "fileId": 5191382,
-      "filename": "jei-1.20.1-forge-15.3.0.4.jar"
+      "filename": "jei-1.20.1-forge-15.3.0.4.jar",
+      "source": "modrinth",
+      "versionId": "9M6tw6on"
     },
     {
       "name": "Alex's Mobs",
-      "source": "curseforge",
-      "projectId": 415375,
-      "fileId": 5045951,
-      "filename": "alexsmobs-1.22.8.jar"
+      "filename": "alexsmobs-1.22.8.jar",
+      "source": "direct",
+      "url": "https://mediafilez.forgecdn.net/files/5191/382/alexsmobs-1.22.8.jar"
     }
   ]
 }
