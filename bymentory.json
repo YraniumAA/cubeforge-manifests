@@ -20,7 +20,7 @@
     { "name": "Create Deco", "source": "modrinth", "slug": "create-deco" },
     { "name": "Create Jetpack", "source": "modrinth", "slug": "create-jetpack" },
     { "name": "Create Ore Excavation", "source": "modrinth", "slug": "create-ore-excavation" },
-    { "name": "Create Propulsion", "source": "modrinth", "slug": "create-propulsion" },
+    { "name": "Create Propulsion", "source": "modrinth", "slug": "create-propulsion-simulated" },
     { "name": "Create Slice & Dice", "source": "modrinth", "slug": "slice-and-dice" },
     { "name": "Create: Central Kitchen", "source": "modrinth", "slug": "create-central-kitchen" },
     { "name": "Create: Connected", "source": "modrinth", "slug": "create-connected" },
@@ -38,7 +38,7 @@
     { "name": "Naturalist", "source": "modrinth", "slug": "naturalist" },
     { "name": "Carry On", "source": "modrinth", "slug": "carryon" },
     { "name": "Tom's Simple Storage Mod", "source": "modrinth", "slug": "toms-storage" },
-    { "name": "Traveler's Backpack", "source": "modrinth", "slug": "travelersbackpack" }
+    { "name": "Traveler's Backpack", "source": "modrinth", "slug": "travelersbackpack" },
     { "name": "Nature's Compass", "source": "modrinth", "slug": "natures-compass" },
     { "name": "Polymorph", "source": "modrinth", "slug": "polymorph" },
     { "name": "ModernFix", "source": "modrinth", "slug": "modernfix" },
@@ -50,7 +50,8 @@
     { "name": "YUNG's Better Dungeons", "source": "modrinth", "slug": "yungs-better-dungeons" },
     { "name": "YUNG's Better Strongholds", "source": "modrinth", "slug": "yungs-better-strongholds" },
     { "name": "YUNG's Better Mineshafts", "source": "modrinth", "slug": "yungs-better-mineshafts" },
-    { "name": "[Let's Do] Vinery", "source": "modrinth", "slug": "vinery" }
+    { "name": "[Let's Do] Vinery", "source": "modrinth", "slug": "vinery" },
+    { "name": "Sable", "source": "modrinth", "slug": "sable" }
   ],
   "clientMods": [
     { "name": "Sodium", "source": "modrinth", "slug": "sodium" },
