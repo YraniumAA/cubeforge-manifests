@@ -1,0 +1,13 @@
+{
+  "id": "bymentory",
+  "name": "byMENTORY",
+  "version": "1.0.0",
+  "minecraftVersion": "1.21.1",
+  "description": "Сборка для закрытого сервера MENTORY",
+  "mods": [
+    { "name": "Just Enough Items", "source": "modrinth", "slug": "jei" }
+  ],
+  "clientMods": [
+    { "name": "Xaero's Minimap", "source": "modrinth", "slug": "xaeros-minimap" }
+  ]
+}
