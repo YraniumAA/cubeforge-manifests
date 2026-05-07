@@ -1,0 +1,15 @@
+{
+  "id": "bookshelf",
+  "name": "BOOKSHELF",
+  "version": "1.0.0",
+  "minecraftVersion": "1.21.1",
+  "description": "Крутая сборка с аэронавтикой и новейшим CREATE",
+  "mods": [
+    { "name": "Create", "source": "modrinth", "slug": "create" },
+    { "name": "Create: Steam 'n' Rails", "source": "modrinth", "slug": "create-steam-n-rails" }
+  ],
+  "clientMods": [
+    { "name": "Sodium", "source": "modrinth", "slug": "sodium" },
+    { "name": "AppleSkin", "source": "modrinth", "slug": "appleskin" }
+  ]
+}
