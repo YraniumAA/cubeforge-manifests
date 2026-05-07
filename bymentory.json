@@ -3,11 +3,25 @@
   "name": "byMENTORY",
   "version": "1.0.0",
   "minecraftVersion": "1.21.1",
-  "description": "Сборка для закрытого сервера MENTORY",
+  "description": "Инженерная сборка MENTORY: Create Aeronautics, Поезда и выживание.",
   "mods": [
-    { "name": "Just Enough Items", "source": "modrinth", "slug": "jei" }
+    { "name": "Create", "source": "modrinth", "slug": "create" },
+    { "name": "Create Aeronautics", "source": "modrinth", "slug": "create-aeronautics" },
+    { "name": "ModernFix", "source": "modrinth", "slug": "modernfix" },
+    { "name": "FerriteCore", "source": "modrinth", "slug": "ferrite-core" },
+    { "name": "Lithium", "source": "modrinth", "slug": "lithium" },
+    { "name": "Create Big Cannons", "source": "modrinth", "slug": "create-big-cannons" },
+    { "name": "Farmer's Delight", "source": "modrinth", "slug": "farmers-delight" },
+    { "name": "Terralith", "source": "modrinth", "slug": "terralith" },
+    { "name": "Distant Horizons", "source": "modrinth", "slug": "distant-horizons" }
   ],
   "clientMods": [
-    { "name": "Xaero's Minimap", "source": "modrinth", "slug": "xaeros-minimap" }
+    { "name": "Sodium", "source": "modrinth", "slug": "sodium" },
+    { "name": "Iris Shaders", "source": "modrinth", "slug": "iris" },
+    { "name": "Xaero's Minimap", "source": "modrinth", "slug": "xaeros-minimap" },
+    { "name": "Xaero's World Map", "source": "modrinth", "slug": "xaeros-world-map" },
+    { "name": "AppleSkin", "source": "modrinth", "slug": "appleskin" },
+    { "name": "Chat Heads", "source": "modrinth", "slug": "chat-heads" },
+    { "name": "Inventory Profiles Next", "source": "modrinth", "slug": "inventory-profiles-next" }
   ]
 }
