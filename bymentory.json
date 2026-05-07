@@ -1,7 +1,7 @@
 {
   "id": "bymentory",
   "name": "byMENTORY",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "minecraftVersion": "1.21.1",
   "description": "Полная инженерная сборка MENTORY: Create, Aeronautics, поезда и улучшенная генерация.",
   "mods": [
@@ -50,13 +50,13 @@
     { "name": "YUNG's Better Dungeons", "source": "modrinth", "slug": "yungs-better-dungeons" },
     { "name": "YUNG's Better Strongholds", "source": "modrinth", "slug": "yungs-better-strongholds" },
     { "name": "YUNG's Better Mineshafts", "source": "modrinth", "slug": "yungs-better-mineshafts" },
-    { "name": "[Let's Do] Vinery", "source": "modrinth", "slug": "vinery" },
+    { "name": "[Let's Do] Vinery", "source": "modrinth", "slug": "lets-do-vinery" },
     { "name": "Sable", "source": "modrinth", "slug": "sable" }
   ],
   "clientMods": [
     { "name": "Sodium", "source": "modrinth", "slug": "sodium" },
     { "name": "Iris Shaders", "source": "modrinth", "slug": "iris" },
-    { "name": "Distant Horizons", "source": "modrinth", "slug": "distant-horizons" },
+    { "name": "Distant Horizons", "source": "modrinth", "slug": "distanthorizons" },
     { "name": "Xaero's Minimap", "source": "modrinth", "slug": "xaeros-minimap" },
     { "name": "Xaero's World Map", "source": "modrinth", "slug": "xaeros-world-map" },
     { "name": "AppleSkin", "source": "modrinth", "slug": "appleskin" },
