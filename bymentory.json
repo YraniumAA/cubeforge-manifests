@@ -15,7 +15,7 @@
     { "name": "CoroUtil", "source": "modrinth", "slug": "coroutil" },
     { "name": "Create", "source": "modrinth", "slug": "create" },
     { "name": "Create Aeronautics", "source": "modrinth", "slug": "create-aeronautics" },
-    { "name": "Create: Aeroworks", "source": "modrinth", "slug": "create-aeroworks" },
+    { "name": "Create: Aeroworks", "source": "url", "url": "https://raw.githubusercontent.com/YraniumAA/cubeforge-manifests/main/mods/aeroworks-1.2.8.jar", "filename": "aeroworks-1.2.8.jar" },
     { "name": "Create Big Cannons", "source": "modrinth", "slug": "create-big-cannons" },
     { "name": "Create Crafts & Additions", "source": "modrinth", "slug": "createaddition" },
     { "name": "Create Deco", "source": "modrinth", "slug": "create-deco" },
