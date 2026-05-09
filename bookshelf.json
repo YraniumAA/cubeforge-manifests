@@ -192,6 +192,23 @@
     { "name": "Zeta", "source": "modrinth", "slug": "zeta" },
     { "name": "aero_copycats", "source": "modrinth", "slug": "copycats+-aeronautics-weight" },
     { "name": "chunksending mod", "source": "direct", "url": "https://github.com/YraniumAA/cubeforge-manifests/raw/main/chunksending-1.21-2.9.jar" }
+    {
+  "fileName": "voxy-1.21.1.jar",
+  "displayName": "Voxy",
+  "sha1": "0000000000000000000000000000000000000000",
+  "size": 0,
+  "side": "client",
+  "source": {
+    "type": "github_build",
+    "owner": "m3t4f1v3",
+    "repo": "voxy",
+    "ref": "mc12111",
+    "javaVersion": 21,
+    "gradleTask": "build",
+    "artifactPattern": "build/libs/*.jar"
+  },
+  "required": false
+}
   ],
   "clientMods": [
     { "name": "AppleSkin", "source": "modrinth", "slug": "appleskin" },
@@ -204,10 +221,10 @@
     { "name": "Dynamic Lights", "source": "modrinth", "slug": "dynamic-lights" },
     { "name": "Enhanced Block Entities NEOFORGE", "source": "modrinth", "slug": "ebe" },
     { "name": "Equipment Compare", "source": "modrinth", "slug": "equipment-compare" },
-    { "name": "Highlighter", "source": "modrinth", "slug": "highlighter" },
+    { "name": "Highlighter", "source": "modrinth", "slug": "item-highlighter" },
     { "name": "Iceberg", "source": "modrinth", "slug": "iceberg" },
     { "name": "ImmediatelyFast", "source": "modrinth", "slug": "immediatelyfast" },
-    { "name": "Inventory HUD+", "source": "modrinth", "slug": "inventory-hud-plus" },
+    { "name": "Inventory HUD+", "source": "modrinth", "slug": "inventoryhudplus" },
     { "name": "Iris", "source": "modrinth", "slug": "iris" },
     { "name": "Jade", "source": "modrinth", "slug": "jade" },
     { "name": "Just Enough Items", "source": "modrinth", "slug": "jei" },
@@ -220,7 +237,7 @@
     { "name": "NotEnoughAnimations", "source": "modrinth", "slug": "not-enough-animations" },
     { "name": "Pick Up Notifier", "source": "modrinth", "slug": "pick-up-notifier" },
     { "name": "Presence Footsteps", "source": "modrinth", "slug": "presence-footsteps" },
-    { "name": "Prism", "source": "modrinth", "slug": "prism" },
+    { "name": "Prism", "source": "modrinth", "slug": "prism-lib" },
     { "name": "Reese's Sodium Options", "source": "modrinth", "slug": "reeses-sodium-options" },
     { "name": "Smooth Boot", "source": "modrinth", "slug": "smooth-boot-reloaded" },
     { "name": "Sodium", "source": "modrinth", "slug": "sodium" },
