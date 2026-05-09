@@ -191,7 +191,7 @@
     { "name": "YUNG's Cave Biomes", "source": "modrinth", "slug": "yungs-cave-biomes" },
     { "name": "Zeta", "source": "modrinth", "slug": "zeta" },
     { "name": "aero_copycats", "source": "modrinth", "slug": "copycats+-aeronautics-weight" },
-    { "name": "chunksending mod", "source": "direct", "url": "https://github.com/YraniumAA/cubeforge-manifests/raw/main/chunksending-1.21-2.9.jar" }
+    { "name": "chunksending mod", "source": "direct", "url": "https://github.com/YraniumAA/cubeforge-manifests/raw/main/chunksending-1.21-2.9.jar" },
     {
   "fileName": "voxy-1.21.1.jar",
   "displayName": "Voxy",
