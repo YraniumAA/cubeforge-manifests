@@ -1,7 +1,7 @@
 {
   "id": "bookshelf",
   "name": "Bookshelf",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "minecraftVersion": "1.21.1",
   "description": "Инженерная сборка на базе Create с биомами, оптимизацией и множеством аддонов.",
   "mods": [
@@ -229,9 +229,9 @@
     { "name": "Sodium Extras", "source": "modrinth", "slug": "sodium-extras" },
     { "name": "Sodium Options API", "source": "modrinth", "slug": "sodium-options-api" },
     { "name": "Sound Physics Remastered", "source": "modrinth", "slug": "sound-physics-remastered" },
-    { "name": "Vista", "source": "modrinth", "slug": "vista" },
+    { "name": "Vista", "source": "modrinth", "slug": "vista_tv" },
     { "name": "Visual Workbench", "source": "modrinth", "slug": "visual-workbench" },
-    { "name": "Visuality: Reforged", "source": "modrinth", "slug": "visuality-reforged" },
+    { "name": "Visuality: Reforged", "source": "modrinth", "slug": "visuality-forge" },
     { "name": "Voxy", "source": "modrinth", "slug": "voxy" },
     { "name": "Xaero's Minimap", "source": "modrinth", "slug": "xaeros-minimap" },
     { "name": "Xaero's World Map", "source": "modrinth", "slug": "xaeros-world-map" }
